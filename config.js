@@ -5,14 +5,14 @@ import { MdAddModerator } from "react-icons/md";
 import { SiProbot } from "react-icons/si";
 import { TbMessage2Code } from "react-icons/tb";
 const config = {
-  name: "ProBot",
+  name: "9INE",
   //BotName
   inviteLink:
-    "https://discord.com/oauth2/authorize?client_id=879602399067660338&permissions=8&scope=bot&redirect_uri=https://docs.markos.ga&response_type=code",
+    "https://discord.com/oauth2/authorize?client_id=1020819494832197632&permissions=8&scope=bot&redirect_uri=https://docs.markos.ga&response_type=code",
   //BotInvite Link
   Features: [
     {
-      name: "Moderation",
+      name: "Moderación",
       description:
         "Moderation is the process of eliminating or lessening extremes.",
       logo: <MdAddModerator className="h-10 w-10" />,
